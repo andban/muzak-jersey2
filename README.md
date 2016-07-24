@@ -12,6 +12,6 @@ $ ./mvnw package
 
 Run example main:
 
-``bash
+```bash
 $ java -jar target/muzak-jersey2-1.0-SNAPSHOT-jar-with-dependencies.jar <your API gateway base url> <your API token>
 ```
